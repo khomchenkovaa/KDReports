@@ -20,16 +20,16 @@ Using KD Reports
 ================
 KD Reports requires Qt 4.6.0 or newer.
 
-See INSTALL.txt or INSTALL-cmake.txt for installation instructions.
-(Note that the qmake and CMake buildsystems are fully supported)
+See [INSTALL.txt](INSTALL.txt) or [INSTALL-cmake.txt](INSTALL-cmake.txt)
+for installation instructions. (CMake and qmake and buildsystems supported)
 
 After reading the introductory overview files in doc/
-you will find more information at three places:
+you will find more information at these places:
 
-  detailed browsable API reference:   doc/refman/index.html
-                                or:   https://docs.kdab.com/kdreports
-  programmers manual with examples:   doc/manual/kdreports.pdf
-  our sorted example programs:        examples/
+ * offline browsable API reference in doc/refman/index.html
+ * [online detailed browsable API reference](https://docs.kdab.com/kdreports)
+ * [programmers manual with examples](doc/manual/kdreports.pdf)
+ * [our sorted example programs](examples/)
 
 Contact
 =======
@@ -40,12 +40,10 @@ Contact
 
 Get Involved
 ============
-KDAB will happily accept external contributions, but substantial
-contributions will require a signed Copyright Assignment Agreement
-(see doc/KDReports-CopyrightAssignmentForm.docx).
+KDAB will happily accept external contributions, but substantial contributions require
+a signed [Copyright Assignment Agreement](doc/KDReports-CopyrightAssignmentForm.docx).
 
-Contact info@kdab.com for more information about the Copyright Assignment
-Agreement.
+Contact info@kdab.com for more information about the Copyright Assignment Agreement.
 
 Please submit your contributions or issue reports from our GitHub space at
 https://github.com/KDAB/KDReports
@@ -54,12 +52,18 @@ License
 =======
 The KD Reports Software is (C) 2007-2020 Klarälvdalens Datakonsult AB (KDAB),
 and is available under the terms of:
-* the LGPL (see LICENSE.LGPL.txt for details)
-* the GPL (see LICENSE.GPL.txt for details)
-* the KDAB commercial license, provided that you buy a license.
-  please contact sales@kdab.com if you are interested in buying commercial licenses.
 
-Commercial use is described in README-commercial.txt.
+* the [LGPL 2.1](LICENSES/LGPL-2.1-only.txt) or [LGPL 3.0](LICENSES/LGPL-3.0-only.txt)
+* the [GPL 2.0](LICENSES/GPL-2.0-only.txt) or [GPL 3.0](LICENSES/GPL-3.0-only.txt)
+* the KDAB KDReports commercial license, provided that you buy a license.
+  please contact info@kdab.com if you are interested in buying commercial licenses.
+
+Commercial licensing terms are available in the included files:
+
+* [LICENSES/LicenseRef-KDAB-KDReports.txt](LICENSES/LicenseRef-KDAB-KDReports.txt) (for non-US customers)
+* [LICENSES/LicenseRef-KDAB-KDReports-US.txt](LICENSES/LicenseRef-KDAB-KDReports-US.txt) (for US customers).
+
+For terms of redistribution, refer to the license agreement.
 
 About KDAB
 ==========
